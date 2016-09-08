@@ -2,12 +2,12 @@
 
 module.exports = function(grunt) {
 
-	grunt.loadNpmTasks('devx-grunt');
+	grunt.loadNpmTasks('grunt-sapui5-bestpractice-build');
 
 	grunt.registerTask('default', [
-		'devx-lint',
+		'lint',
 		'clean',
-		'devx-build'
+		'build'
 	]);
 
 };

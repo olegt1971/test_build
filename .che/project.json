@@ -1,1 +1,1 @@
-{"type":"blank","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{},"mixinTypes":[]}
+{"type":"sap.web","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hcpdeploy\":{\"account\":\"xf463e79e\",\"name\":\"testbuild2\",\"lastVersionWeTriedToDeploy\":\"1.0.6\"},\"deploy\":{\"destination\":\"abap_backend\",\"name\":\"ZTEST_BUILD\"}}"]},"mixinTypes":[]}

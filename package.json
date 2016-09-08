@@ -3,6 +3,6 @@
 	"version": "0.0.1",
 	"private": true,
 	"devDependencies": {
-		"devx-grunt": "^1.0.36"
+		"grunt-sapui5-bestpractice-build": "^1.0.36"
 	}
 }
